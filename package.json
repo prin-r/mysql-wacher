@@ -1,0 +1,18 @@
+{
+  "name": "mysql-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.10.2",
+    "mysql-events": "0.0.11",
+    "nodemon": "^1.18.9",
+    "zongji": "^0.4.7"
+  }
+}
